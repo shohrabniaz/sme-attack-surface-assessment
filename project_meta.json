@@ -1,10 +1,17 @@
 {
-  "seq": 21,
   "title": "Attack Surface Discovery and External Exposure Assessment for SMEs",
-  "slug": "attack-surface-discovery-and-external-exposure-assessme",
+  "old_slug": "attack-surface-discovery-and-external-exposure-assessme",
+  "slug": "sme-attack-surface-assessment",
   "folder": "Attack_Surface_Discovery_And_External_Exposure_Assessme",
   "kind": "vuln",
-  "body_words": 249,
+  "body_words": 315,
+  "source": "SCI700",
   "project_id": "Project 11",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-with-caveat",
+    "reasons": [
+      "External exposure theme \u2014 ensure no live scan targets or exploit steps (defensive OK)"
+    ]
+  }
 }
