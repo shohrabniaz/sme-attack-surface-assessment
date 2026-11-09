@@ -13,5 +13,8 @@
     "reasons": [
       "External exposure theme \u2014 ensure no live scan targets or exploit steps (defensive OK)"
     ]
-  }
+  },
+  "has_automation": true,
+  "entry": "python -m src.cli run",
+  "generatedUtc": "2026-11-09T13:07:13.659689+00:00"
 }
